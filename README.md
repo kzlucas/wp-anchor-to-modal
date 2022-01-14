@@ -27,3 +27,4 @@ Add this shortcode to a page named [http://example.ext/subscribe](http://example
 ```
 [anchor-to-modal anchor="valid" title="Thanks for your interest!" close_btn_label="Back to website"]
 ```
+Access to [http://example.ext/subscribe/#valid](http://example.ext/subscribe/#valid) will pop in the modal.
